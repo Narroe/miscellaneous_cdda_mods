@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "battery_conversion_mod",
+    "name": "Battery Conversion Mod",
+    "authors": [ "Oa" ],
+    "description": "Adds recipe, that converts \"recharageable batteries\" to \"small storage batteries\".",
+    "category": "items",
+    "dependencies": [ "dda", "brightnights" ],
+    "version": "1.0"
+  }
+]
