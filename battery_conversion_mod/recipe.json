@@ -1,0 +1,26 @@
+[
+  {
+    "result": "small_storage_battery",
+    "type": "recipe",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_PARTS",
+    "skill_used": "electronics",
+    "skills_required": ["fabrication", 2],
+    "difficulty": 3,
+    "time": 20000,
+    "autolearn": [ [ "electronics", 4 ] ],
+    "book_learn": [ [ "manual_electronics", 3 ], [ "textbook_electronics", 3 ] ],
+    "qualities": [
+      { "id": "SCREW_FINE", "level": 1 }
+    ],
+    "tools": [ [ [ "soldering_iron", 10 ] ] ],
+    "components": [
+      [ [ "rechargeable_battery", 2 ] ],
+      [ [ "scrap", 4 ] ],
+      [ [ "e_scrap", 2 ] ],
+      [ [ "plastic_chunk", 2 ] ],
+      [ [ "cable", 4 ] ],
+      [ [ "solder_wire", 4 ] ]
+    ]
+  }
+]
